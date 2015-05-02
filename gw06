@@ -1,2 +1,2 @@
 key "be56eb2cb9493f22b6e0cce4c7f8c838fd44e8c44c6983c58265bbe1c2cf04c0";
-remote gw06.4830.org:10169;
+remote "gw06.4830.org":10169;
